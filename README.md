@@ -1,37 +1,52 @@
-# Hi there! 👋 I'm Mukul Waval
+# Hi, I’m Mukul 👋
 
-I'm a passionate developer and explorer, diving deep into various fields, including:
+I’m a student developer with strong interests in **mathematics**, **programming language tooling**, and **web development**. I enjoy working on foundational software - tools and systems that focus on structure, correctness, and understanding how software works under the hood.
 
-- **Software Development** (C++, C#, TypeScript, JavaScript, Python)
-- **Compiler Design** (Building custom parsers and compilers)
-- **Web Development** (React, Next.js, Tailwind CSS, NestJS, MongoDB)
-- **Mobile Development** (React Native, Expo )
-- **Mountaineering & Trekking** (Documenting my experiences and routes)
+## Interests & Focus
 
-## 🚀 Projects
+- **Programming Language Tooling**
+  - Building parsers, interpreters, and compilers
+  - Developing structured text-processing systems (e.g. Markdown processors, lexers, formatters)
+  - Exploring language design, syntax analysis, and program execution models
 
-- **Indium Programming Language** – A custom programming language and its compiler
-- **8-Bit Computer Simulation** – Built from scratch using logic gates
-- **Obsidian Markdown Parser** – A C++ and C# parser for Obsidian notes
-- **Travel Guide Website**
-- **Aethermark** - A custom markdown dialect  processing library in python (c++ with pybind11)
+- **Web & Application Development**
+  - Building modern web applications with a focus on clarity and maintainability
+  - Experience with both frontend and backend development
 
-## 🛠️ Tech Stack
+- **Mathematics & Machine Learning**
+  - Applying mathematical reasoning to algorithms and models
+  - Exploring machine learning from both conceptual and implementation perspectives
+ 
+## Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=plastic&logo=codecov&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
-### **Languages**
+## What I’m Learning
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- Rust for safer and more expressive systems-level abstractions  
+- Deeper compiler construction and language tooling techniques  
+- Machine learning fundamentals and practical implementations
 
-### **Frameworks & Tools**
+## Goals
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- Build well-structured, reliable software from first principles  
+- Strengthen my understanding of core computer science concepts  
+- Create developer tools and applications that are both practical and technically sound
 
-Let's build something amazing together! 🚀
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mukulwaval&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulwaval&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
